@@ -1,2 +1,5 @@
 # LLM
-[GitHub 仓库]（https://github.com/InternLM/Tutorial）
+
+
+# Reference
+[GitHub Repo](https://github.com/InternLM/Tutorial)
